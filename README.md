@@ -7,7 +7,7 @@
 
   <p>The data includes COVID-19 deaths toll (total and per day), confirmed cases (total and per day), recovered (total and per day) and vaccinated (total and per day). It includes confirmation, recovery and death by neighbourhood (total and per day) but does not include by age and gender because the Prefecture of Aparecida and the Health Secretary of Aparecida do not ptovide the raw data of COVID-19 by age and gender, differently of the Prefecture of Guaratinguetá, which provides everything. </p>
 
-  <p>The project use Jupyter Notebook with the libraries `csv` for loading CSV files, `ipychart` and `pandas` for loading charts, using Charts.js, and `ctype` or `locale` for detecting the OS language and switching the language.</p>
+  <p>The project use Jupyter Notebook with the libraries <code>csv</code> for loading CSV files, <code>ipychart</code> and <code>pandas</code> for loading charts, using Charts.js, and <code>gettext</code> or <code>os</code> for detecting the OS language and switching the language.</p>
 
   ## Licence
 
@@ -23,7 +23,7 @@
 
   <p>Os dados incluem o número de mortes por COVID-19 (total e por dia), casos confirmados (total e por dia), recuperados (total e por dia) e vacinados (total e por dia). Inclui os números de confirmados, recuperados e morte por vizinhança (total e por dia), mas não inclui por idade e gênero porque a prefeitura da Aparecida e a Secretária de Saúde de Aparecida não põem os dados brutos da COVID-19 por idade e gênero, diferentemente da Prefeitura de Guaratinguetá que fornece tudo. </p>
 
-  <p>O projeto usa o Jupyter Notebook com as bibliotecas – `CSV` para carregar arquivos CSV, `ipychart` e `pandas` para carregar gráficos, usando o arquivo Charts.js, e `ctype` ou `locale` para detectar o idioma do sistema operacional e trocar o idioma.</p>
+  <p>O projeto usa o Jupyter Notebook com as bibliotecas – <code>csv</code> para carregar arquivos CSV, <code>ipychart</code> e <code>pandas</code> para carregar gráficos, usando o arquivo Charts.js, e <code>gettext</code> ou <code>os</code> para detectar o idioma do sistema operacional e trocar o idioma.</p>
 
   ## Licença
 
