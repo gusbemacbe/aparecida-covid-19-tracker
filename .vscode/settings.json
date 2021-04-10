@@ -1,0 +1,5 @@
+{
+  "markdown.preview.fontFamily": "'Cantarell', sans-serif",
+  "markdown.preview.fontSize": 10,
+  "markdown.styles": [".vscode/css/fonte.css"]
+}
