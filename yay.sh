@@ -1,0 +1,1 @@
+/home/gusbemacbe/PUC/yay.sh
