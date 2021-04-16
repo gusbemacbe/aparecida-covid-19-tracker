@@ -16,3 +16,21 @@ msgstr "Hello world"
 
 msgid "This is a translatable string"
 msgstr "This is a translatable string"
+
+msgid "Confirmed"
+msgstr "Confirmed"
+
+msgid "Deaths"
+msgstr "Deaths"
+
+msgid "Recovered"
+msgstr "Recovered"
+
+msgid "Legend colour"
+msgstr "Legend colour"
+
+msgid "Cumulative number of confirmed cases, deaths and recovered"
+msgstr "Cumulative number of confirmed cases, deaths and recovered"
+
+msgid "Daily new number of confirmed cases, deaths and recovered"
+msgstr "Daily new number of confirmed cases, deaths and recovered"
