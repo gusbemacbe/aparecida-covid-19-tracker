@@ -34,3 +34,10 @@ msgstr "Número total de casos confirmados, óbitos e recuperados"
 
 msgid "Daily new number of confirmed cases, deaths and recovered"
 msgstr "Novo número diário de casos confirmados, mortes e recuperados"
+
+msgid "Active cases"
+msgstr "Casos ativos"
+
+msgid "Cumulative number of active cases"
+msgstr "Número total de casos ativos"
+

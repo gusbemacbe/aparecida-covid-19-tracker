@@ -34,3 +34,9 @@ msgstr "Cumulative number of confirmed cases, deaths and recovered"
 
 msgid "Daily new number of confirmed cases, deaths and recovered"
 msgstr "Daily new number of confirmed cases, deaths and recovered"
+
+msgid "Active cases"
+msgstr "Active case"
+
+msgid "Cumulative number of active cases"
+msgstr "Cumulative number of active cases"
