@@ -41,3 +41,12 @@ msgstr "Casos ativos"
 msgid "Cumulative number of active cases"
 msgstr "Número total de casos ativos"
 
+msgid "Occupied beds"
+msgstr "Leitos ocupados"
+
+msgid "Intubated"
+msgstr "Intubados"
+
+msgid "Cumulative number of occupied beds and intubated"
+msgstr "Número total de leitos ocupados e intubados"
+
