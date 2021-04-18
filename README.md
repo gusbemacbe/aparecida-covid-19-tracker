@@ -1,5 +1,5 @@
 <details>
-  <summary><img align="middle" alt="UK" height="32px" src="imagens/bandeiras/folder-uk.svg" /> English</summary>
+  <summary><img align="middle" alt="UK" height="32px" src="images/flags/folder-uk.svg" /> English</summary>
 
   # COVID-19 Tracker for Aparecida City, São Paulo, Brazil
   
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary><img align="middle" alt="Brazil" height="32px" src="imagens/bandeiras/folder-brazil.svg" /> Português</summary>
+  <summary><img align="middle" alt="Brazil" height="32px" src="images/flags/folder-brazil.svg" /> Português</summary>
 
   # Rastreador de COVID-19 para a cidade de Aparecida, São Paulo, Brasil
   
