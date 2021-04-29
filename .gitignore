@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# CSV files
+casos_obitos_doencas_preexistentes.csv
+casos_obitos_raca_cor.csv
