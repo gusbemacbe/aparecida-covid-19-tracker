@@ -1,1 +1,0 @@
-/home/gusbemacbe/PUC/extensions.sh
